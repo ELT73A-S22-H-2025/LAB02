@@ -1,0 +1,3 @@
+C:/Users/anton/OneDrive/Área de Trabalho/Lab2 sist mic/emptytest/build/debug/CMakeFiles/emptytest.dir
+C:/Users/anton/OneDrive/Área de Trabalho/Lab2 sist mic/emptytest/build/debug/CMakeFiles/edit_cache.dir
+C:/Users/anton/OneDrive/Área de Trabalho/Lab2 sist mic/emptytest/build/debug/CMakeFiles/rebuild_cache.dir
